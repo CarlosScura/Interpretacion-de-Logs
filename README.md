@@ -1,6 +1,5 @@
 # Interpretacion-de-Logs
 Sexto challenge de the Huddle
-# Interpretación de Logs
 
 ## Descripción
 
@@ -89,3 +88,8 @@ Se rastreó el `trace_id` con mayor cantidad de servicios distintos involucrados
 3. `inventory-service` → WARN por retry de reserva, status 200
 
 Esto confirma la hipótesis: el problema se originó en el inventario y se propagó hacia arriba en la cadena de servicios.
+
+## Autor
+
+**Fede Alarcón Scura** — Estudiante de Penguin Academy
+Challenge desarrollado como parte del programa de formación.
